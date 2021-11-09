@@ -76,3 +76,24 @@ main {
 	font-style: normal;
 	text-align: right;
 }
+
+.main-block-3 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 100px;
+	background-color: #D8DEE9;
+	text-align: left;
+}	
+
+.block-3-content {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 36px;
+	width: 700px;
+	padding: 72px 36px;
+	border-radius: 12px;
+	background-color: #3B4252;
+	color: #ECEFF4;
+}
