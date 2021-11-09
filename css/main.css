@@ -55,3 +55,24 @@ main {
 .family {
 	background-color: #5E81AC;
 }
+
+.main-block-2 {
+	display: flex;
+	justify-content: center;
+	font-size: 24px;
+	padding: 50px;
+	background-color: #ECEFF4;
+	color: #3B4252;
+}
+
+.testimonial {
+	font-weight: lighter;
+	font-style: italic;
+	width: 600px;
+}
+
+.reviewer {
+	font-weight: normal;
+	font-style: normal;
+	text-align: right;
+}
