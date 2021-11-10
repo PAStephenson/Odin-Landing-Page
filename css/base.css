@@ -4,6 +4,22 @@
 	font-family: sans-serif;
 }
 
+.flex {
+	display: flex;
+	align-items: center;
+}
+
+.flex-column {
+	display: flex;
+	flex-direction: column;
+}
+
+header,
+footer {
+	color: #E5E9F0;
+	background-color: #2E3440;
+}
+
 a {
 	text-decoration: none;
 	color: #E5E9F0;
@@ -14,11 +30,22 @@ a:hover {
 }
 
 body {
-	display: flex;
-	flex-direction: column;
 	text-align: center;
 }
 
 img { 
+	height: auto;
 	vertical-align: middle;
+	border: 3px solid #E5E9F0;
+	border-radius: 8px;
+}
+
+button {
+	font-size: 16px;
+	margin-top: 16px;
+	padding: 8px 16px;
+	border: none;
+	border-radius: 8px;
+	color:  #E5E9F0;
+	background-color: #8FBCBB;
 }
