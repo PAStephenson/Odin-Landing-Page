@@ -45,8 +45,8 @@
 	justify-content: center;
 	font-size: 24px;
 	padding: 50px;
-	background-color: #ECEFF4;
 	color: #3B4252;
+	background-color: #ECEFF4;
 }
 
 .testimonial {
@@ -62,22 +62,22 @@
 }
 
 .main-block-3 {
-	display: flex;
 	justify-content: center;
-	align-items: center;
 	padding: 100px;
-	background-color: #D8DEE9;
 	text-align: left;
+	background-color: #D8DEE9;
 }	
 
 .block-3-content {
-	display: flex;
 	justify-content: center;
-	align-items: center;
 	gap: 36px;
 	width: 700px;
 	padding: 72px 36px;
 	border-radius: 12px;
-	background-color: #3B4252;
+	color: #E5E9F0;
+	background-color: #2E3440;
+}
+
+.block-3-content h2 {
 	color: #ECEFF4;
 }
