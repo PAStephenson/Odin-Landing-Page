@@ -1,58 +1,43 @@
-main {
-	display: flex;
-	flex-direction: column;
-}
-
 .main-block-1 {
-	display: flex;
-	flex-direction: column;
 	padding: 50px;
 	padding-top: 20px;
-	background-color: #D8DEE9;
 	color: #3B4252;
+	background-color: #D8DEE9;
 }
 
 .block-1-content {
-	display: flex;
 	justify-content: center;
-	align-items: center;
 	gap: 50px;
 }
 
 .use-case {
-	display: flex;
-	flex-direction: column;
 	align-items: center;
 	width: 200px;
-	text-align: center;
 }
 
-.main-image {
+.use-case img {
 	width: 100px;
-	height: auto;
 	margin: 20px;
 	padding: 10px;
-	border: 3px solid #E5E9F0;
-	border-radius: 8px;
 }
 
-.light-bulb {
+#light-bulb {
 	background-color: #BF616A;
 }
 
-.kettle {
+#kettle {
 	background-color: #D08770;
 }
 
-.garage {
+#garage {
 	background-color: #EBCB8B;
 }
 
-.dog { 
+#dog { 
 	background-color: #A3BE8C;
 }
 
-.family {
+#family {
 	background-color: #5E81AC;
 }
 
