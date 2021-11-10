@@ -1,12 +1,21 @@
 * {
 	margin: 0px;
 	padding: 0px;
+	font-family: sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: #E5E9F0;
+}
+
+a:hover {
+	color: #8FBCBB;
 }
 
 body {
 	display: flex;
 	flex-direction: column;
-	font-family: sans-serif;
 	text-align: center;
 }
 
