@@ -3,6 +3,8 @@ Website landing page for an imaginary piece of automation software.
 
 Made while following [The Odin Project](https://www.theodinproject.com). 
 
+### [Live Preview](https://pastephenson.github.io/Odin-Landing-Page/)
+
 ## Image Sources
 Header Icon made by [SBTS2018](https://www.flaticon.com/authors/sbts2018) from [www.flaticon.com](https://www.flaticon.com)
 
